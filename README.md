@@ -62,7 +62,29 @@ Solar PV shows the strongest historical cost relationship, while onshore wind an
 
 Bioenergy shows almost no relationship between deployment and cost. Hydropower moves in the opposite direction, demonstrating why the same experience-curve interpretation should not automatically be applied across all renewable technologies.
 
+### Cost Forecasts to 2040
+
+The learning-curve models were extended to 2040 under slow, central, and fast deployment scenarios.
+
 The forecasting exercise also shows that unconstrained learning-curve extrapolation becomes increasingly aggressive over longer horizons. By 2035, the central model forecast is approximately 25% below IRENA's published outlook for onshore wind and 50% below it for solar PV.
+
+| Technology | Scenario | 2025 | 2030 | 2035 | 2040 |
+|---|---|---:|---:|---:|---:|
+| Offshore wind | Slow | 2,931 | 2,668 | 2,429 | 2,211 |
+| Offshore wind | Central | 2,931 | 2,279 | 1,772 | 1,378 |
+| Offshore wind | Fast | 2,931 | 2,220 | 1,682 | 1,274 |
+| Onshore wind | Slow | 976 | 809 | 671 | 556 |
+| Onshore wind | Central | 976 | 762 | 594 | 464 |
+| Onshore wind | Fast | 976 | 730 | 546 | 408 |
+| Solar PV | Slow | 667 | 398 | 238 | 142 |
+| Solar PV | Central | 667 | 342 | 175 | 90 |
+| Solar PV | Fast | 667 | 310 | 144 | 67 |
+
+*Costs are expressed in USD/kW.*
+
+Under the central deployment scenario, the model estimates that by 2040 total installed costs could fall to approximately **$1,378/kW for offshore wind, $464/kW for onshore wind, and $90/kW for solar PV**.
+
+These estimates are scenario-based extrapolations of historical learning relationships rather than predictions. The increasingly low long-term estimates, particularly for solar PV, highlight the limitations of applying historical learning curves far into the future.
 
 The results suggest that experience curves are useful for describing historical technological progress and constructing transparent scenarios, but should not be treated as stand-alone long-term forecasting models.
 
